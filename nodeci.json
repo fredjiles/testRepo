@@ -1,0 +1,11 @@
+{
+    "githubUser": "fredjiles",
+    "repo": "testRepo",
+    "commands": [
+        "phpunit "
+    ],
+    "onSuccess":[],
+    "onFail": [],
+    "successMessage": " \n\n![PASSED](http://2.bp.blogspot.com/-szVUVb2n8xI/Ta8tPJwqX_I/AAAAAAAAAFk/H3YCPxrGm14/s1600/rainbow+unicorn+madness%2521.jpg)\n\n Passed Build",
+    "failedMessage": " \n\n![FAIL](http://i306.photobucket.com/albums/nn278/Shamanofsexy99/Poop_Colors.png)\n\n Failed Build: "
+}
