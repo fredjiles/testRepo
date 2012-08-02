@@ -7,4 +7,9 @@ class testClassTest extends \PHPUnit_Framework_TestCase
     {
         $this->assertTrue(true);
     }
+
+    public function testCanNotPass()
+    {
+        $this->assertFalse(true);
+    }
 }
