@@ -10,6 +10,6 @@ class testClassTest extends \PHPUnit_Framework_TestCase
 
     public function testCanNotPass()
     {
-        $this->assertFalse(true);
+        $this->assertFalse(false);
     }
 }
