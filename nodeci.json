@@ -2,7 +2,8 @@
     "githubUser": "fredjiles",
     "repo": "testRepo",
     "commands": [
-        "phpunit "
+        "phpunit ",
+        "ls"
     ],
     "onSuccess":[],
     "onFail": [],
